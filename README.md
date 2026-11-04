@@ -7,4 +7,4 @@ truth tables, and study the guide, viva questions and quizzes.
 Open it: https://bharadwaj-exe.github.io/digital-ic-trainer/
 
 This repository contains only the built website. It is published automatically from the
-source repository (build 495e006).
+source repository (build c1aa48b).

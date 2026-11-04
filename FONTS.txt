@@ -1,0 +1,5 @@
+Fonts bundled in fonts/:
+  Inter Tight      - SIL Open Font License 1.1
+  Space Grotesk    - SIL Open Font License 1.1
+  JetBrains Mono   - SIL Open Font License 1.1
+License text: https://openfontlicense.org/open-font-license-official-text/
